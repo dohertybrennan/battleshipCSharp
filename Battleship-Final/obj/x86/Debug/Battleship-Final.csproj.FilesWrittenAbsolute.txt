@@ -1,0 +1,10 @@
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final/Battleship-Final/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final/Battleship-Final/bin/Debug/Battleship-Final.exe.mdb
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final/Battleship-Final/bin/Debug/Battleship-Final.exe
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final/Battleship-Final/obj/x86/Debug/Battleship-Final.exe
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final/Battleship-Final/obj/x86/Debug/Battleship-Final.exe.mdb
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final (old)/Battleship-Final/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final (old)/Battleship-Final/obj/x86/Debug/Battleship-Final.exe
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final (old)/Battleship-Final/obj/x86/Debug/Battleship-Final.exe.mdb
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final (old)/Battleship-Final/bin/Debug/Battleship-Final.exe.mdb
+/home/brennan/Dropbox/South Hills/Winter 17/IT205 - C Sharp/Battleship-Final (old)/Battleship-Final/bin/Debug/Battleship-Final.exe
